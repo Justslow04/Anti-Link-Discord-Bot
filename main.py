@@ -8,14 +8,9 @@ from discord import activity
 from discord.commands import Option
 
 import os
-import sys
-
 import json
 
 import asyncio as asyncio
-
-import re
-import string
 
 
 from discord.ext import *
@@ -24,12 +19,6 @@ from ctypes import *
 from datetime import datetime
 
 
-import inspect
-import io
-import textwrap
-import traceback
-import aiohttp
-from contextlib import redirect_stdout
 
 import re
 

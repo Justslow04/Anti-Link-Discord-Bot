@@ -1,0 +1,15 @@
+{
+    "Token": "INSERT_YOUR_BOT_TOKEN_HERE",
+
+    "command_prefix": "INSERT_COMMAND_PREFIX_HERE",
+
+    "ownerID": 123456789123456789,
+
+    "admins": 123456789123456789,
+
+    "whitelist": "INSERT_WHITELISTED_URLS_HERE "
+
+    }
+
+
+
